@@ -8,7 +8,7 @@
     return sum;
   };
   
-  const findFrequency = function(array {
+  const findFrequency = function(array) {
     // your code here - don't forget to return an object!
     let answer = {
         most: '',
